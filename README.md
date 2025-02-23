@@ -8,7 +8,8 @@
 
 
 Приложите скриншот входящих правил «Группы безопасности» в ЛК Yandex Cloud .
- [1-3.png](main/1-3.png)
+![1-3.png](main/1-3.png)
+![1-3](https://github.com/user-attachments/assets/1162dcfa-a653-4d2b-a7a7-da3830e3e7b9)
 
 ------
 
